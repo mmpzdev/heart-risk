@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pickle  # or joblib
-from sklearn.linear_model import LinearRegression
+# from sklearn.linear_model import LinearRegression
 
 # === Load your trained model ===
 # If saved earlier with pickle
