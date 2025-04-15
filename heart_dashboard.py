@@ -9,8 +9,8 @@ import pickle  # or joblib
 
 # Or define manually if model was trained inline
 # (Use the same coefficients you trained)
-coefficients = [0.1585, 0.0340, 0.0958, 0.0242]  # Example values
-intercept = 0.0615  # Replace with your model's intercept
+coefficients = [0.1576, 0.0505, 0.1051, 0.0202]  # Example values
+intercept = 0.0772  # Replace with your model's intercept
 
 
 def predict_risk(inputs):
